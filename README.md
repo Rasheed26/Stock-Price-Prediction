@@ -1,0 +1,1 @@
+This Project finds the pattern in existing data using Time Series analysis and predicts the future trends of Stock price. It uses Machine learning algorithms like ARIMA, SARIMA, SARIMAX, LSTM etc.
